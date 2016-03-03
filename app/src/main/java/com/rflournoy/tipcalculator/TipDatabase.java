@@ -14,9 +14,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 
-/**
- * Created by Wayne Beech on 12/2/2015.
- */
+
 public class TipDatabase {
 
     public static final String DB_NAME = "TipDatabase.db";

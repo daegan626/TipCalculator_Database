@@ -3,6 +3,7 @@ package com.rflournoy.tipcalculator;
 /**
  * Created by 66640 on 3/2/2016.
  */
+
 import android.annotation.SuppressLint;
 
 import java.text.NumberFormat;
